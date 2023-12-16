@@ -64,4 +64,6 @@ The project employs advanced BI skills, utilizing data modeling techniques, DAX 
 
 ### Examples of DAX Used: 
 - DAX used to create Day of the Week column from the transaction_date
-- DAX used to create “Gneration” column form the data in birth_year column 
+![Day_of_the_week](https://github.com/juliazmacha/Business_Intelligence_Cafe-Insight-BI/assets/115115006/9d0a7302-0273-4f21-8197-e1f620a6ef61)
+- DAX used to create “Gneration” column form the data in birth_year column
+![Generations](https://github.com/juliazmacha/Business_Intelligence_Cafe-Insight-BI/assets/115115006/64be2e19-4f95-4ccf-b613-6abe58a0b38f) 
